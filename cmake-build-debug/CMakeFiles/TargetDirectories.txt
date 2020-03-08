@@ -1,0 +1,3 @@
+C:/Users/xichao.chen/work/github/jdk-12-source/cmake-build-debug/CMakeFiles/jdk12_06222165c35f.dir
+C:/Users/xichao.chen/work/github/jdk-12-source/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xichao.chen/work/github/jdk-12-source/cmake-build-debug/CMakeFiles/rebuild_cache.dir
